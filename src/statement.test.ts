@@ -1,4 +1,4 @@
-const statement = require("./statement")
+import statement from './statement'
 
 describe("Statement", () => {
     it('should align baseline', function () {
